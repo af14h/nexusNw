@@ -1,12 +1,5 @@
 <br clear="both">
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=nexusNw.nexusNw&left_color=crimson&right_color=slategrey&left_text=Profile-Views"  />
-</div>
-
-###
-
-<br clear="both">
 
 <h4 align="center">Hi 👋! My name is  Aflah and I'm a student from Kerala,India</h4>
 
@@ -58,8 +51,8 @@
 <br clear="both">
 
 <div align="center" >
-  <img src="https://github-readme-stats.vercel.app/api?username=nexusNw&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=false&order=1" height="145" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nexusNw&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=9&theme=jolly&hide_border=true&order=2" height="147" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=af14h&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=false&order=1" height="145" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=af14h&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=9&theme=jolly&hide_border=true&order=2" height="147" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=nexusNw&locale=en&mode=weekly&theme=blue-green&hide_border=true&border_radius=10&order=3" height="150" alt="streak graph"  />
 </div>
 
